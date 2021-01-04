@@ -8,7 +8,7 @@
 		<artifactId>aipalpay-api-parent</artifactId>
 		<version>1.0.0</version>
 	</parent>
-
+<packaging>jar</packaging>
 
   <artifactId>aipalpay-apr-api</artifactId>
 
